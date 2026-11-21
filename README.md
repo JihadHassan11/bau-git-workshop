@@ -1,4 +1,4 @@
-# BAU Library System
+# BAU Smart Library
 
 A small library app built by BAU CMPS students to practise Git & GitHub.
 
