@@ -1,2 +1,7 @@
-# bau-git-workshop
-BAU senior workshop demo: Git &amp; GitHub with VS Code - branches, pull requests, merge conflicts
+# BAU Library System
+
+A small library app built by BAU CMPS students to practise Git & GitHub.
+
+Features: search books, borrow and return.
+
+Team: Sara (frontend), Ahmad (backend).
