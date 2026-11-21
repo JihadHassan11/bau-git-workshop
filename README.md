@@ -1,4 +1,4 @@
-# BAU Library System
+# BAU Library System - Dark Mode
 
 A small library app built by BAU CMPS students to practise Git & GitHub.
 
